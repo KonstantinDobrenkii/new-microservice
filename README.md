@@ -1,1 +1,1 @@
-## InStore WMS (iWMS) Microservice
+## Stock and Assortment Microservice
